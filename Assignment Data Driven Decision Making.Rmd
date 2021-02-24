@@ -1,6 +1,6 @@
 ---
 title: "Assigment - Data Driven Decision Making"
-author: Jurg Jacobs
+author: Jurg Jacobs (665156)
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 self_contained: false
 output:
