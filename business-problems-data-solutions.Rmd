@@ -1,26 +1,31 @@
 ---
 title: "Assigment - Data Problems vs Data Solutions"
-author: name author here
+author: Jurg Jacobs (665156)
 date: "`r format(Sys.time(), '%d %B, %Y')`"
+self_contained: false
 output:
   html_notebook:
     toc: yes
     toc_depth: 2
 ---
 
-Search Youtube for a suitable business case example on data driven decision making and copy the embed code below.
+# How Unilever is using Artificial Intelligence and Machine Learning in their recruitment process.
 
-<---- Embed code here ---->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Efo2ebnES_U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external= "1"></iframe>
 
 ## What was the business problem?
-
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Unilever is a consumer goods company with over 400 brands and more than 170,000 employees around the whole world. Every year Unilever recruit around 30,000 people a year and receive over 1.8 million applications. To go through al these applications is a massive job and takes a lot of human working hours to complete. To save these working hours, Unilever wanted to use Artificial Intelligence and machine learning. This allowed the recruitment department process to be more efficiently organised, reducing costs and making it easier to process all applications. 
 
 ## How was it translated into a data mining problem?
+To tackle this business problem, they applied it to their future leaders program. In this program, Unilever wanted to recruit 800 people and received a total of 250 thousand applications. 
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+The first thing Unilever and the partners (Hire Vue and Pymetrics) did, was making games for the applicants, which they could play on their mobile phone or computer/laptop. In this game, the applicants where tested on their attitude, logical thinking, risk taking, etc. Machine learning and other algorithms could measure the various aspects and assess whether a person can go through to the next round. 
+
+In the second round of recruitment, applicants needed to do an online interview without an recruitment employee. Just by recording themselves with their mobile phone or laptop, the machine learning algorithms were able to process the answers as well as body language. This made it possible to narrow the recruitment process and retain the best applicants.
+
+After the two rounds, the recruitment department could interview the candidates in real life and choose the best people to be hired. 
 
 ## What is the realized business value?
+By doing this, Unilever managed to go from 250 thousand applicants to 3.5 thousand applicants. This saved over more than 70 thousand working hours in the recruitment department, which makes this process very cost efficiently for Unilever. 
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+In addition, the experience of the application program was more fun and educating for all the applicants. After the rounds, the applicant received feedback on how they performed in the game as well as the online interview. Hereby the applicant could understand why he/she was not selected for the job. 
