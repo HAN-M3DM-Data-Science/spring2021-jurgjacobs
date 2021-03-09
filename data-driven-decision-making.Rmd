@@ -1,30 +1,28 @@
 ---
 title: "Assigment - Data Driven Decision Making"
-author: name author here
+author: Jurg Jacobs (665156)
 date: "`r format(Sys.time(), '%d %B, %Y')`"
+self_contained: false
 output:
   html_notebook:
     toc: yes
     toc_depth: 2
 ---
 
-Search Youtube for a suitable business case example on data driven decision making and copy the embed code below.
+# How Coca-Cola uses data and experiments to drive business decisions
 
-<---- Watch this video if you don't know how to embed video's ---->
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9YffrCViTVk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<---- Replace this video with your business case example ---->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/b0ttUoL2pyY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external= "1"></iframe>
 
 ## Why was data driven decision making (3DM) useful in this business case?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Coca Cola is one of the most popular brands all over the world. To be able to develop new drinks for customers, Coca Cola decided to set up an experiment all over the world. Data Driven Decision making was applicable to this experiment, as Coca Cola could develop new flavours based on the received data from consumers in different countries all over the world. 
 
 ## How did the organization apply 3DM?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+In this experiment, Coca Cola has placed vending machines in various countries around the world, where consumers can choose their own flavour, such as Sprite Cherry or Mango Diet Coke. 
+
+After a certain period of time, it became possible for Coca Cola to see trends in consumer behavior per country or even per region. In England, for example, there was a high demand for a cherry-flavoured Sprite drink or a sugar-free Mango flavoured Coca Cola. Coca Cola anticipated this by marketing these flavours in the country and selling them in supermarkets. By doing so, Coca Cola used real data to make a choice for new drinks in its assortment.
 
 ## What can the organization do with 3DM that they couldn’t do before?
 
-Write your analysis here. Use the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+Coca Cola can now use real and direct data from consumers based in various countries all over the world. They can also implement this experiment in more countries or in specific regions to analyze the difference in consumer behavior and preferences. 
