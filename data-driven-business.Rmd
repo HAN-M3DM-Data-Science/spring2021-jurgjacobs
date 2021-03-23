@@ -1,25 +1,41 @@
 ---
 title: "Assigment - Data Driven Business"
+author: Jurg Jacobs (665156) 
 date: "`r format(Sys.time(), '%d %B, %Y')`"
+self_contained: false
 output:
   html_notebook:
     toc: yes
     toc_depth: 2
 ---
 
-Search Youtube for suitable business case examples on data driven business. Copy the embed code below.
+# How To Become A More Data-Driven Company: Insights From Shell 
 
-<---- Embed code here ---->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QlqI0gGOjo4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external= "1"></iframe>
 
 
 ## What features define a data driven business?
+There are several common characteristics to define a successful data driven business:
 
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations. 
+1. The data of the organization needs to be centralized and organized. The organization needs to be aware of what and how much data is gathered, because too much data is a real threat and does not necessarily ensure good business insights. 
+2. Data governance policies are in place to safeguard the quality of key master data objects. 
+3. In a data driven business everyone needs to have access to some of the data of the organization. A principle that most of the successful data driven businesses follow is that everyone should have access to data required to perform the job and that this data is accessible from various tools. 
+4. Analytical tools needs to be integrated into existing tools, which makes them more likely to be used by employees.
+(IBM, 2020)
 
 ## What are the important features of a data culture?
+According to Dan Jeavons, General Manager Data Science for Shell, discipline is the most important feature for a data culture in an organization. With this discipline, Dan Jeavons means that the organization needs to be very clear about what data is used and how. Shell only uses the data that they need and that will give, on the bottom line, business value to the company. They do not just put some data in a set and think that this large data set will do the trick for them.
+For this discipline, Shell uses the 80/20 rule. With this rule they first focus on the strategically important data, which needs to be used. Secondly, they look to other types of data that could be valuable if there is space or capacity left. 
 
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+An other important feature for a good data culture, is that your employees talk the language of business, but also the language of data science. To have this understanding of both languages is important, because it will let you translate business insights out of data science into business value. 
+At Shell, employees are trained to get a better understanding of both of these languages. 
 
 ## What are the transformation steps towards a mature data driven business?
-Write your analysis here. Use illustrations from the case study and the information from the course literature as a starting point for your argumentation. Find other reliable sources that support your analysis. Apply proper citations.
+To make a transformation to a mature data driven business different steps are needed to be taken. It is crucial to employ well-trained data scientists, as well as business managers and other stakeholders in the firm who understand fundamental principles of data science. Both of these people need to be part of solving business problems with data science and participate in the design and implementation of the solutions (Provost & Fawcett, 2013). 
 
+In addition, the organization has to be ready to make investments into data science processes, because some solutions take a lot of time to implement. The ideas and suggestions of data scientists need to be taken into consideration with open and informed minds to be able to take next steps in a data driven business (Provost & Fawcett, 2013).  
+
+## Bibliography
+(IBM, 2020): https://www.ibm.com/blogs/think/se-sv/2016/04/15/4-characteristics-of-data-driven-organizations-and-how-to-get-started/
+
+(Provost & Fawcett, 2013): Data Science for Business.
